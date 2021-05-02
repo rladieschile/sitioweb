@@ -1,0 +1,18 @@
+# Theme metadata
+name = "rladies"
+
+# Is theme light or dark?
+light = true
+
+# Primary
+primary = "#88398a"
+
+# Menu
+menu_primary = "#88398a"
+menu_text = "#fff"
+menu_text_active = "rgb(208, 255, 56)"
+menu_title = "#fff"
+
+# Home sections
+home_section_odd = "#fff"
+home_section_even = "#fff"
