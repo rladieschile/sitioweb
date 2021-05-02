@@ -7,9 +7,9 @@ widget: pages
 headless: true
 
 # Order that this section appears on the page.
-weight: 70
+weight: 40
 
-title: 'Recent & Upcoming Talks'
+title: 'Actividades recientes'
 subtitle:
 
 content:

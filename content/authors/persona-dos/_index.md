@@ -1,5 +1,6 @@
 ---
-bio: Capítulos de RLadies en Chile.
+bio: Algo sobre esta persona.
+active: true
 #education:
 #  courses:
 #  - course: PhD in Artificial Intelligence
@@ -18,23 +19,29 @@ highlight_name: false
 #- Computational Linguistics
 #- Information Retrieval
 organizations:
-- name: RLadies
-  url: https://rladies.org/
-role: Aquí decimos algo más
+- name:  # Si quieren agregar el lugar en que trabajan
+  url:  # La url a de ese lugar
+role: 
 social:
-- icon: envelope
-  icon_pack: fas
-  link: /#contact
 - display:
     header: true
-- icon: vimeo
+- icon: twitter 
   icon_pack: fab
-  link: https://vimeo.com/rladieschile
+  link: 
 - icon: github
   icon_pack: fab
-  link: https://github.com/rladieschile
-superuser: true
-title: RLadies Chile
+  link: 
+  link: 
+- icon: linkedin
+  icon_pack: fab
+  link: 
+superuser: false
+title: Nombre Apellido
+user_groups: # dejar solo el que corresponda
+- "RLadies Santiago"
+- "RLadies Valparaíso"
+- "RLadies Concepción"
+- "RLadies Talca"
 ---
 
-Aquí decimos algunas cosas generales sobre RLadies y los capítulos de Chile. 
+Algunas cosas sobre esta persona. Otras cosas más sobre esta persona.
